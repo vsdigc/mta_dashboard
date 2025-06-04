@@ -1,0 +1,8 @@
+<meta>
+    <script src='public/src/render.lua' type='client' cache='false' />
+    <script src='public/src/res.lua' type='client' cache='false' />
+
+    <file src='public/assets/fonts/font.ttf' />
+    <file src='public/assets/imgs/base.png' />
+    <file src='public/assets/imgs/logo.png' />
+</meta>
